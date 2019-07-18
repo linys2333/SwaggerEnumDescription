@@ -1,0 +1,2 @@
+# SwaggerEnumDescription
+扩展swagger对枚举类型的文本展示
